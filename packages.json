@@ -16,7 +16,7 @@
       "dailyIncome": 500,
       "minimumWithdrawal": 3000,
       "earningPerSurvey": "50 - 100",
-      "price": "350"
+      "price": "250"
     },
     {
       "planName": "Business Premium",
@@ -25,7 +25,7 @@
       "dailyIncome": 1000,
       "minimumWithdrawal": 2500,
       "earningPerSurvey": "50 - 100",
-      "price": "450"
+      "price": "350"
     },
     {
       "planName": "Business Expert",
@@ -34,7 +34,7 @@
       "dailyIncome": 2000,
       "minimumWithdrawal": 2000,
       "earningPerSurvey": "50 - 100",
-      "price": "550"
+      "price": "500"
     }
   ],
   "mpesaPaymentDetails": {
