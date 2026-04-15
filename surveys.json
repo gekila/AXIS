@@ -4,7 +4,7 @@
       {
         "surveyId": "1",
         "surveyCategory": "Axis",
-        "surveyPaid": false,
+        "surveyPaid": true,
         "surveyAmount": 70,
         "surveyQuestions": [
           {
@@ -148,7 +148,7 @@
       {
          "surveyId":"KE002",
          "surveyCategory":"Equity Bank",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":50,
          "surveyQuestions":[
             {
@@ -376,7 +376,7 @@
       {
          "surveyId":"KE005",
          "surveyCategory":"Brookside Dairy",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":45,
          "surveyQuestions":[
             {
@@ -676,7 +676,7 @@
       {
          "surveyId":"KE009",
          "surveyCategory":"Co-operative Bank",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":50,
          "surveyQuestions":[
             {
@@ -1036,7 +1036,7 @@
       {
          "surveyId":"KE014",
          "surveyCategory":"Bidco Africa",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":48,
          "surveyQuestions":[
             {
@@ -1338,7 +1338,7 @@
       {
          "surveyId":"KE018",
          "surveyCategory":"Keroche Breweries",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":46,
          "surveyQuestions":[
             {
@@ -1483,7 +1483,7 @@
       {
          "surveyId":"KE020",
          "surveyCategory":"Chandaria Industries",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":42,
          "surveyQuestions":[
             {
@@ -1920,7 +1920,7 @@
       {
          "surveyId":"KE026",
          "surveyCategory":"Mara Moja Transport",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":44,
          "surveyQuestions":[
             {
@@ -2125,7 +2125,7 @@
       {
          "surveyId":"KE029",
          "surveyCategory":"Kenya Tea Development Agency (KTDA)",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":43,
          "surveyQuestions":[
             {
@@ -2269,7 +2269,7 @@
       {
          "surveyId":"KE031",
          "surveyCategory":"CIC Insurance Group",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":40,
          "surveyQuestions":[
             {
@@ -2484,7 +2484,7 @@
       {
          "surveyId":"KE034",
          "surveyCategory":"Kapa Oil Refineries",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":45,
          "surveyQuestions":[
             {
@@ -2768,7 +2768,7 @@
       {
          "surveyId":"KE038",
          "surveyCategory":"Eldoret Grain Millers",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":42,
          "surveyQuestions":[
             {
@@ -3041,7 +3041,7 @@
       {
          "surveyId":"KE042",
          "surveyCategory":"Pwani Oil",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":43,
          "surveyQuestions":[
             {
@@ -3334,7 +3334,7 @@
       {
          "surveyId":"KE046",
          "surveyCategory":"Unga Limited",
-         "surveyPaid":false,
+         "surveyPaid":true,
          "surveyAmount":44,
          "surveyQuestions":[
             {
