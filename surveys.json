@@ -4,7 +4,7 @@
       {
         "surveyId": "1",
         "surveyCategory": "Axis",
-        "surveyPaid": true,
+        "surveyPaid": false,
         "surveyAmount": 70,
         "surveyQuestions": [
           {
@@ -69,7 +69,7 @@
       {
          "surveyId":"KE001",
          "surveyCategory":"Safaricom M-PESA",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":75,
          "surveyQuestions":[
             {
@@ -148,7 +148,7 @@
       {
          "surveyId":"KE002",
          "surveyCategory":"Equity Bank",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":50,
          "surveyQuestions":[
             {
@@ -214,7 +214,7 @@
       {
          "surveyId":"KE003",
          "surveyCategory":"Naivas Supermarket",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":65,
          "surveyQuestions":[
             {
@@ -296,7 +296,7 @@
       {
          "surveyId":"KE004",
          "surveyCategory":"Kenya Airways",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":80,
          "surveyQuestions":[
             {
@@ -376,7 +376,7 @@
       {
          "surveyId":"KE005",
          "surveyCategory":"Brookside Dairy",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":45,
          "surveyQuestions":[
             {
@@ -440,7 +440,7 @@
       {
          "surveyId":"KE006",
          "surveyCategory":"Jumia Kenya",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":70,
          "surveyQuestions":[
             {
@@ -519,7 +519,7 @@
       {
          "surveyId":"KE007",
          "surveyCategory":"KCB Bank",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":68,
          "surveyQuestions":[
             {
@@ -601,7 +601,7 @@
       {
          "surveyId":"KE008",
          "surveyCategory":"Twiga Foods",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":62,
          "surveyQuestions":[
             {
@@ -676,7 +676,7 @@
       {
          "surveyId":"KE009",
          "surveyCategory":"Co-operative Bank",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":50,
          "surveyQuestions":[
             {
@@ -740,7 +740,7 @@
       {
          "surveyId":"KE010",
          "surveyCategory":"Zuku",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":72,
          "surveyQuestions":[
             {
@@ -821,7 +821,7 @@
       {
          "surveyId":"KE011",
          "surveyCategory":"Java House",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":60,
          "surveyQuestions":[
             {
@@ -892,7 +892,7 @@
       {
          "surveyId":"KE012",
          "surveyCategory":"Kipepeo Clothing",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":58,
          "surveyQuestions":[
             {
@@ -962,7 +962,7 @@
       {
          "surveyId":"KE013",
          "surveyCategory":"KPLC",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":66,
          "surveyQuestions":[
             {
@@ -1036,7 +1036,7 @@
       {
          "surveyId":"KE014",
          "surveyCategory":"Bidco Africa",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":48,
          "surveyQuestions":[
             {
@@ -1100,7 +1100,7 @@
       {
          "surveyId":"KE015",
          "surveyCategory":"Safaricom Home Fibre",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":78,
          "surveyQuestions":[
             {
@@ -1185,7 +1185,7 @@
       {
          "surveyId":"KE016",
          "surveyCategory":"Artcaffe",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":64,
          "surveyQuestions":[
             {
@@ -1256,7 +1256,7 @@
       {
          "surveyId":"KE017",
          "surveyCategory":"Carrefour Kenya",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":67,
          "surveyQuestions":[
             {
@@ -1338,7 +1338,7 @@
       {
          "surveyId":"KE018",
          "surveyCategory":"Keroche Breweries",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":46,
          "surveyQuestions":[
             {
@@ -1401,7 +1401,7 @@
       {
          "surveyId":"KE019",
          "surveyCategory":"Safaricom PLC",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":74,
          "surveyQuestions":[
             {
@@ -1483,7 +1483,7 @@
       {
          "surveyId":"KE020",
          "surveyCategory":"Chandaria Industries",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":42,
          "surveyQuestions":[
             {
@@ -1546,7 +1546,7 @@
       {
          "surveyId":"KE021",
          "surveyCategory":"Eldoret Water and Sanitation Company (ELDOWAS)",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":63,
          "surveyQuestions":[
             {
@@ -1616,7 +1616,7 @@
       {
          "surveyId":"KE022",
          "surveyCategory":"Kenchic",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":61,
          "surveyQuestions":[
             {
@@ -1686,7 +1686,7 @@
       {
          "surveyId":"KE023",
          "surveyCategory":"Airtel Kenya",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":69,
          "surveyQuestions":[
             {
@@ -1768,7 +1768,7 @@
       {
          "surveyId":"KE024",
          "surveyCategory":"Nation Media Group",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":71,
          "surveyQuestions":[
             {
@@ -1850,7 +1850,7 @@
       {
          "surveyId":"KE025",
          "surveyCategory":"Glovo Kenya",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":66,
          "surveyQuestions":[
             {
@@ -1920,7 +1920,7 @@
       {
          "surveyId":"KE026",
          "surveyCategory":"Mara Moja Transport",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":44,
          "surveyQuestions":[
             {
@@ -1984,7 +1984,7 @@
       {
          "surveyId":"KE027",
          "surveyCategory":"Tusker Beer (EABL)",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":68,
          "surveyQuestions":[
             {
@@ -2054,7 +2054,7 @@
       {
          "surveyId":"KE028",
          "surveyCategory":"Quickmart",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":65,
          "surveyQuestions":[
             {
@@ -2125,7 +2125,7 @@
       {
          "surveyId":"KE029",
          "surveyCategory":"Kenya Tea Development Agency (KTDA)",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":43,
          "surveyQuestions":[
             {
@@ -2188,7 +2188,7 @@
       {
          "surveyId":"KE030",
          "surveyCategory":"Bolt Kenya",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":70,
          "surveyQuestions":[
             {
@@ -2269,7 +2269,7 @@
       {
          "surveyId":"KE031",
          "surveyCategory":"CIC Insurance Group",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":40,
          "surveyQuestions":[
             {
@@ -2333,7 +2333,7 @@
       {
          "surveyId":"KE032",
          "surveyCategory":"Kenya Power",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":65,
          "surveyQuestions":[
             {
@@ -2414,7 +2414,7 @@
       {
          "surveyId":"KE033",
          "surveyCategory":"Mabati Rolling Mills",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":60,
          "surveyQuestions":[
             {
@@ -2484,7 +2484,7 @@
       {
          "surveyId":"KE034",
          "surveyCategory":"Kapa Oil Refineries",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":45,
          "surveyQuestions":[
             {
@@ -2547,7 +2547,7 @@
       {
          "surveyId":"KE035",
          "surveyCategory":"Centum Investment Company",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":68,
          "surveyQuestions":[
             {
@@ -2628,7 +2628,7 @@
       {
          "surveyId":"KE036",
          "surveyCategory":"Bamburi Cement",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":62,
          "surveyQuestions":[
             {
@@ -2698,7 +2698,7 @@
       {
          "surveyId":"KE037",
          "surveyCategory":"Safaricom Foundation",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":64,
          "surveyQuestions":[
             {
@@ -2768,7 +2768,7 @@
       {
          "surveyId":"KE038",
          "surveyCategory":"Eldoret Grain Millers",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":42,
          "surveyQuestions":[
             {
@@ -2831,7 +2831,7 @@
       {
          "surveyId":"KE039",
          "surveyCategory":"Kenya Commercial Bank (KCB) Foundation",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":66,
          "surveyQuestions":[
             {
@@ -2901,7 +2901,7 @@
       {
          "surveyId":"KE040",
          "surveyCategory":"Mombasa Cement",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":62,
          "surveyQuestions":[
             {
@@ -2971,7 +2971,7 @@
       {
          "surveyId":"KE041",
          "surveyCategory":"Athi River Mining (ARM) Cement",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":60,
          "surveyQuestions":[
             {
@@ -3041,7 +3041,7 @@
       {
          "surveyId":"KE042",
          "surveyCategory":"Pwani Oil",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":43,
          "surveyQuestions":[
             {
@@ -3104,7 +3104,7 @@
       {
          "surveyId":"KE043",
          "surveyCategory":"Kenya Seed Company",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":65,
          "surveyQuestions":[
             {
@@ -3185,7 +3185,7 @@
       {
          "surveyId":"KE044",
          "surveyCategory":"Ndovu Paints",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":60,
          "surveyQuestions":[
             {
@@ -3255,7 +3255,7 @@
       {
          "surveyId":"KE045",
          "surveyCategory":"Kilimall Kenya",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":68,
          "surveyQuestions":[
             {
@@ -3334,7 +3334,7 @@
       {
          "surveyId":"KE046",
          "surveyCategory":"Unga Limited",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":44,
          "surveyQuestions":[
             {
@@ -3397,7 +3397,7 @@
       {
          "surveyId":"KE047",
          "surveyCategory":"Kakuzi PLC",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":62,
          "surveyQuestions":[
             {
@@ -3467,7 +3467,7 @@
       {
          "surveyId":"KE048",
          "surveyCategory":"Oserian Flowers",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":60,
          "surveyQuestions":[
             {
@@ -3537,7 +3537,7 @@
       {
          "surveyId":"KE049",
          "surveyCategory":"Twiga Chemical Industries",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":64,
          "surveyQuestions":[
             {
@@ -3607,7 +3607,7 @@
       {
          "surveyId":"KE050",
          "surveyCategory":"Base Titanium",
-         "surveyPaid":true,
+         "surveyPaid":false,
          "surveyAmount":62,
          "surveyQuestions":[
             {
